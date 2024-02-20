@@ -79,7 +79,7 @@ hr {
     border: 1px solid lightgray;
     margin-bottom: 5px;
 }
-
+/* ICON STYLE */
 .edit_style {
     background-color:rgb(20 170 245);
 }
@@ -111,6 +111,7 @@ hr {
     padding: 5px;
     border-radius: 15px;
 }
+/* /END ICON STYLE */
 
 .line_thr {
     text-decoration: line-through;
@@ -118,4 +119,5 @@ hr {
 
 .li_box {
     padding: 20px 0 0 0;
+    margin-bottom: 10px;
 }
