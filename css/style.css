@@ -57,5 +57,34 @@ body {
 }
 
 hr {
-    
+    border-top: 2px solid white;
+}
+
+/* TODO LIST */
+.todo_list {
+    padding: 20px;
+    list-style-type: none;
+}
+
+.macro_todo {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.article_style {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+.edit_style {
+    color: white;
+    background-color:rgb(20 170 245);
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.line_thr {
+    text-decoration: line-through;
 }
