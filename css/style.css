@@ -5,3 +5,27 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER */
+.head_container {
+    background-color: rgb(237 242 247);
+}
+.main_header {
+    margin: auto;
+    width: 1500px;
+}
+
+.main_header .logo_img {
+    margin: auto;
+    display: block;
+}
+
+/* MAIN SECTION */
+.main_container {
+    width: 1500px;
+    background-color: rgb(237 242 247);
+    margin: auto;
+}
