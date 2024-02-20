@@ -25,7 +25,37 @@ body {
 
 /* MAIN SECTION */
 .main_container {
-    width: 1500px;
+    width: 60%;
     background-color: rgb(237 242 247);
     margin: auto;
+    margin-top: 50px;
+    border-radius: 5px 5px 0 0;
+}
+
+/* SEARCH BAR */
+.search_container {
+    padding: 20px;
+    text-align: center; 
+}
+
+.button_style {
+    background-color: rgb(20 170 245);
+    color: white;
+    padding: 10px;
+    border: 1px solid lightgray;
+    font-size: 15px;
+}
+
+.search_input {
+    padding: 10px;
+}
+
+.round_corn {
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    font-size: 15px;
+}
+
+hr {
+    
 }
